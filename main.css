@@ -4,7 +4,7 @@ html,body {
 }
 .img-responsive {
 max-width: 60%; /* or to whatever you want here */
-max-height: auto; /* or to whatever you want here */
+max-height: 300px; /* or to whatever you want here */
 }
 
 
