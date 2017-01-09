@@ -347,6 +347,6 @@ div.hidden{
 }
 
 .list-inline li{
-	/*padding-left: -5em;*/
-	margin:0 0 -20 -20px;
+ 	display: inline-block;
+  	margin-right: -4px;
 }
