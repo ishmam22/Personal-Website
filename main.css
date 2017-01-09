@@ -182,7 +182,7 @@ position: relative;
     margin-top: 10;
    ]
     height: auto;
-    width: 100%;
+    width: auto;
 
     border: 2px solid white;
     
@@ -194,7 +194,7 @@ position: relative;
     margin-top: 10;
     
     height: auto;
-    width: 100%;
+    width: auto;
   
     border: 2px solid white;
     
