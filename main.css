@@ -11,28 +11,26 @@ body {
   margin-top: 0;
 }
 
-    .main h1{
-        margin: 0;
-        padding-top: 100px;
-        font-size: 50px;
-        letter-spacing: 5px;
-    }
-    .main{
-        padding-top: 55px;
-        text-align: center;
-        font-family: 'Montserrat', sans-serif;
-        color: #0F1626;
-        background-color: lightslategray;
-        height: 800px;
-        width: 100%;
-        background: url(back.jpg);
-        background-attachment: fixed;
-        background-size: cover;
-        min-height: 100%;
+.main h1{
+margin: 0;
+padding-top: 100px;
+font-size: 50px;
+letter-spacing: 5px;
+}
+.main{
+padding-top: 55px;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+color: #0F1626;
+background-color: lightslategray;
+height: 800px;
+width: 100%;
+background: url(back.jpg);
+background-attachment: fixed;
+background-size: cover;
+min-height: 100%;
 
-    }
-
-
+}
 
 .middle h1{
     margin-top: 0;
@@ -100,6 +98,7 @@ body {
 }
 
 .lower{
+	position: relative;
     padding-top: 58px;
     color: white;
     background-color: #0F1626;
