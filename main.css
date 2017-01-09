@@ -197,7 +197,8 @@ position: relative;
 
 
 #deer{
-    margin-top: 10; 
+    margin-top: 10;
+    height: 250px;
     height: auto;
     width: 100%;
 
@@ -208,7 +209,8 @@ position: relative;
 }
 
 #yale{
-    margin-top: 10; 
+    margin-top: 10;
+    height: 250px;
     height: auto;
     width: 100%;
   
@@ -241,6 +243,7 @@ position: relative;
 
 
 #money{
+    height: 250px;
     height: auto;
     transition: .5s ease;
   backface-visibility: hidden;
@@ -253,6 +256,7 @@ position: relative;
 
 
 #map{
+    height: 250px;
     height: auto;
     transition: .5s ease;
   backface-visibility: hidden;
