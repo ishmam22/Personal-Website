@@ -61,7 +61,7 @@ body {
     text-decoration: none;
     
 }
-.nav {
+#nav {
 position: relative;
   list-style-type: none;
   margin: 0;
@@ -78,7 +78,7 @@ position: relative;
     
     
 }
-.nav a {
+#nav a {
   text-decoration: none;
   cursor: pointer;
   color: #fff;
