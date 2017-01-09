@@ -46,7 +46,7 @@ body {
     min-height: 100%;
     padding-bottom : 40px;
 }
-.toolbar{
+#toolbar{
    z-index: 30;
     position: fixed;
     opacity: 0.85;
@@ -56,7 +56,7 @@ body {
     padding-left: 10px;
     text-decoration: none;
 }
-.toolbar :hover{
+#toolbar :hover{
     color: #FF3B3F;
     text-decoration: none;
     
