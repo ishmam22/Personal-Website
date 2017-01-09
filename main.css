@@ -348,5 +348,5 @@ div.hidden{
 
 .list-inline li a{
 	/*padding-left: -5em;*/
-	margin:0 0 0 0;
+	margin:0 0 0 -10px;
 }
