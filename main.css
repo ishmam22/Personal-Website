@@ -3,6 +3,30 @@ html,body {
 	height: 100%;
 }
 
+@media screen and (min-width: 700px) {
+   #deer{
+    margin-top: 10; 
+    height: 380px;
+    width: 300px;
+
+    border: 2px solid white;
+    
+
+    
+}
+
+#yale{
+    margin-top: 10; 
+    height: 380px;
+    width: 400px;
+  
+    border: 2px solid white;
+    
+    
+    
+}
+}
+
 
 
 body {
