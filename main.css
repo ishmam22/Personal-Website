@@ -1,0 +1,341 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0px;
+  margin-top: 0;
+}
+
+    .main h1{
+        margin: 0;
+        padding-top: 100px;
+        font-size: 50px;
+        letter-spacing: 5px;
+    }
+    .main{
+        padding-top: 55px;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: #0F1626;
+        background-color: lightslategray;
+        height: 800px;
+        width: 100%;
+        background: url(back.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+
+    }
+
+
+
+.middle h1{
+    margin-top: 0;
+}
+
+.middle{
+    padding-top: 58px;
+    color: white;
+    background-color: firebrick;
+    font-family: 'Montserrat', cursive ;
+    text-align: center;
+    height: 800px;
+    width: 100%;
+    margin: 0;
+}
+.toolbar{
+   z-index: 30;
+    position: fixed;
+    opacity: 0.85;
+    width: 100%;
+    color: teal;
+    background-color: #0F1626;
+    padding-left: 10px;
+    text-decoration: none;
+}
+.toolbar :hover{
+    color: #FF3B3F;
+    text-decoration: none;
+    
+}
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0;
+  color: teal;
+  text-decoration: none;
+}
+#ishpic{
+    margin-top: 10; 
+    height: 420px;
+    width: 300px;
+    
+    border: 2px solid white;
+    
+    
+    
+}
+.nav a {
+  text-decoration: none;
+  
+  cursor: pointer;
+  color: #fff;
+  display: inline;
+  font-family: 'Montserrat', cursive ;
+  font-weight: 600;
+  font-size: 12px;
+  margin-right: 25px;
+  text-transform: uppercase;
+  padding-left: 120px;
+}
+
+.lower h1{
+    margin-top: 0;
+}
+
+.lower{
+    padding-top: 58px;
+    color: white;
+    background-color: #0F1626;
+    font-family: 'Montserrat', cursive ;
+    text-align: center;
+    height: 800px;
+    width: 100%;
+    margin: 0;
+}
+.footer h1{
+    margin-top: 0;
+}
+
+.footer{
+    padding-top: 58px;
+    color: white;
+    background-color:  #0F1626  ;
+    font-family: 'Montserrat', cursive ;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    margin: 0;
+}
+
+#html{
+    height: 200px;
+    width: 200px;
+  
+    
+}
+
+#sheets{
+    height: 200px;
+    width: 200px;
+    padding-left: 50px;
+  
+}
+
+#script{
+    height: 200px;
+    width: 200px;
+    padding-left: 60px;
+    
+}
+
+
+
+
+#face{
+    color: white;
+    padding-left: 10px;
+    margin-right: 50px;
+  
+}
+#mail{
+      color: white;
+    padding-left: 10px;
+    margin-right: 50px;
+}
+#phone{
+     color: white;
+    padding-left: 10px;
+    margin-right: 50px;
+}
+#linked{
+      color: white;
+    padding-left: 10px;
+    margin-right: 50px;
+}
+
+#git{
+     color: white;
+    padding-left: 10px;
+    margin-right: 50px;
+    
+}
+
+
+
+.interests h1{
+    margin-top: 0;
+}
+
+.interests{
+    padding-top: 58px;
+    color: white;
+    background-color: firebrick;
+    font-family: 'Montserrat', cursive ;
+    text-align: center;
+    height:750px;
+    width: 100%;
+    margin: 0;
+}
+
+
+
+#deer{
+    margin-top: 10; 
+    height: 380px;
+    width: 300px;
+
+    border: 2px solid white;
+    
+
+    
+}
+
+#yale{
+    margin-top: 10; 
+    height: 380px;
+    width: 400px;
+  
+    border: 2px solid white;
+    
+    
+    
+}
+
+
+.row{
+    z-index: -50;
+}
+
+#number{
+    padding-right: 20px;
+}
+
+
+
+#weather{
+    height: 250px;
+    transition: .5s ease;
+  backface-visibility: hidden;
+    
+     opacity: 1;
+  display: block;
+    position: relative;
+}
+
+
+#money{
+    height: 250px;
+    transition: .5s ease;
+  backface-visibility: hidden;
+    
+     opacity: 1;
+  display: block;
+    position: relative;
+}
+
+
+
+#map{
+    height: 250px;
+    transition: .5s ease;
+  backface-visibility: hidden;
+     opacity: 1;
+  display: block;
+    position: relative;
+    
+}
+
+.welp{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+    width: 100%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+  
+}
+.wdesc{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+    width: 100%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+  
+}
+.sdesc{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+    width: 100%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+  
+}
+
+#map:hover{
+  opacity: 0.3;
+}
+#money:hover {
+  opacity: 0.3;
+}
+#weather:hover {
+  opacity: 0.3;
+}
+
+.image1:hover .welp {
+  opacity: 1;
+    text-decoration: none;
+    color: white;
+}
+
+.image1:hover #map {
+  opacity: 0.3;
+    text-decoration: none;
+    color: white;
+}
+
+.image2:hover .wdesc {
+  opacity: 1;
+    text-decoration: none;
+    color: white;
+}
+
+.image2:hover #weather {
+  opacity: 0.3;
+    text-decoration: none;
+    color: white;
+}
+
+.image3:hover .sdesc {
+  opacity: 1;
+    text-decoration: none;
+    color: white;
+}
+
+.image3:hover #money {
+  opacity: 0.3;
+    text-decoration: none;
+    color: white;
+}
+
+div.hidden{
+    display: none;
+}
+
+
