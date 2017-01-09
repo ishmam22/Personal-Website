@@ -123,26 +123,6 @@ position: relative;
     padding-bottom : 30px;
 }
 
-#html{
-    height: 200px;
-    width: 200px;
-  
-    
-}
-
-#sheets{
-    height: 200px;
-    width: 200px;
-    padding-left: 50px;
-  
-}
-
-#script{
-    height: 200px;
-    width: 200px;
-    padding-left: 60px;
-    
-}
 
 .img-responsive {
 
@@ -201,7 +181,7 @@ max-height: 300px;
 
 #deer{
     margin-top: 10;
-    height: 250px;
+   ]
     height: auto;
     width: 100%;
 
@@ -213,7 +193,7 @@ max-height: 300px;
 
 #yale{
     margin-top: 10;
-    height: 250px;
+    
     height: auto;
     width: 100%;
   
@@ -246,7 +226,7 @@ max-height: 300px;
 
 
 #money{
-    height: 250px;
+    
     height: auto;
     transition: .5s ease;
   backface-visibility: hidden;
@@ -259,7 +239,7 @@ max-height: 300px;
 
 
 #map{
-    height: 250px;
+    
     height: auto;
     transition: .5s ease;
   backface-visibility: hidden;
