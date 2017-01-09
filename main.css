@@ -3,7 +3,7 @@ html,body {
 	height: 100%;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (max-width: 700px) {
    #deer{
     margin-top: 10; 
     height: 380px;
