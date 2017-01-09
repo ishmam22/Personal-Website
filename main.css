@@ -28,6 +28,7 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	min-height: 100%;
+	padding-bottom : 20px;
 }
 
 .middle h1{
@@ -43,6 +44,7 @@ body {
     width: 100%;
     margin: 0;
     min-height: 100%;
+    padding-bottom : 20px;
 }
 .toolbar{
    z-index: 30;
@@ -117,6 +119,7 @@ position: relative;
     width: 100%;
     margin: 0;
     min-height: 5%;
+    padding-bottom : 20px;
 }
 
 #html{
@@ -187,6 +190,7 @@ position: relative;
     width: 100%;
     margin: 0;
     min-height: 100%;
+    padding-bottom : 20px;
 }
 
 
