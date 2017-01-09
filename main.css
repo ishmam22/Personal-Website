@@ -37,6 +37,7 @@ min-height: 100%;
 }
 
 .middle{
+	position: relative;
     padding-top: 58px;
     color: white;
     background-color: firebrick;
@@ -99,21 +100,22 @@ min-height: 100%;
 
 .lower{
 	position: relative;
-    padding-top: 58px;
-    color: white;
-    background-color: #0F1626;
-    font-family: 'Montserrat', cursive ;
-    text-align: center;
-    height: 800px;
-    width: 100%;
-    margin: 0;
-    min-height: 100%;
+	padding-top: 58px;
+	color: white;
+	background-color: #0F1626;
+	font-family: 'Montserrat', cursive ;
+	text-align: center;
+	height: 800px;
+	width: 100%;
+	margin: 0;
+	min-height: 100%;
 }
 .footer h1{
     margin-top: 0;
 }
 
 .footer{
+	position: relative;
     padding-top: 58px;
     color: white;
     background-color:  #0F1626  ;
