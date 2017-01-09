@@ -347,6 +347,7 @@ div.hidden{
 }
 
 .list-inline li a{
+	padding: 0;
 	font-size: 0.75em;
 	/*margin:0 0 0 0; */
 }
