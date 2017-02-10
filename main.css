@@ -26,8 +26,7 @@ body {
 	background-color: lightslategray;
 	width: 100%;
 	background: url(back.jpg);
-	background-attachment: fixed;
-	background-size: cover;
+	
 	min-height: 100%;
 	padding-bottom : 40px;
 }
